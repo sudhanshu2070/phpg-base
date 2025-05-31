@@ -28,7 +28,7 @@ A simple PHP project connected to **PostgreSQL**, designed to run on a local mac
 1. Place your PHP project in the XAMPP `htdocs` directory:
 C:\xampp\htdocs\phpg-stack\
 
-markdown
+```
 
 2. Start Apache server using the **XAMPP Control Panel**.
 
@@ -36,7 +36,7 @@ markdown
 
 C:\xampp\htdocs\phpg-stack\
 
-markdown
+```
 2. Start Apache server using the **XAMPP Control Panel**.
 
 3. Visit your project in the browser:
